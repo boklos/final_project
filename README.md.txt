@@ -1,0 +1,1 @@
+A backbone library with mongodb database and phonegap for android
